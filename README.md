@@ -1,4 +1,4 @@
-# 08 Caeser Cipher
+# 08 Caesar Cipher
 
 This project is a simple encryption and decryption program using the Caesar cipher. It was created as the **Day 08 Challenge** from Dr. Angela Yu's Python Pro Bootcamp to practice Python fundamentals, including functions with parameters, loops, and user input handling. 
 
